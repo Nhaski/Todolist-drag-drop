@@ -1,8 +1,16 @@
 import logo from './logo.svg';
 import './App.css';
+import { useState } from 'react';
 
-function App() {
+const  App = () => {
+  const [boards, setBoards] = useState ( initialState [
 
+  ])
 }
+
+return (
+  <div className="app"></div>
+)
+
 
 export default App;
